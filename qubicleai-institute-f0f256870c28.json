@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "qubicleai-institute",
+  "private_key_id": "f0f256870c2859b974ad042b1fe8f50e1309ff99",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC65soGPczHjIfj\nG5rSwSV773XcwBYh7lM3Z4ugeMxWeG45/EmgAz7AN1lFluYLJp0wXeUexb3wrY/s\n/rkSnt2pkOSuNZMmlyaQvKuItu6eiWvtazXIAQi3O8UyvKx2Yk34o6YbGaLaa8Az\nfzWg2fynJAb8xd6Gff8OaEH4EmK0ilS7T1hWRny8LfxCL84kmULVWOjckfvl9I2p\n9E0nTdAdu53e1UjGUP4SBYu3rUvykTV9X42ElykHZEN4m7LocjQNFU8dLYmdMA1+\n/wGWAj2U0zUhBSpMGGu0lGGCdWZ5LXXjTHpiTzTZpunjqMjBUDM7IoteMW5+T/Ij\n/4yv59zPAgMBAAECggEAN5uxIhhDFGAokhbFgs06xNwjWjHApAnPsp1ZOr6WNWgR\ni6kXksdEZVZSdlUGTu0HObvGDtjQwYoyV1YWZIbl9qyIjZidFo9ERy4Lb1rWNk82\n0GXkk4RTPolHC+h8+6AWCNNP+aIwBQKoJepEX35cILKkbZLFuYhFWdkFP7Tgr0wy\npHepeYBlvVdyCvMWq1Izmw8pM/iaW2xU50FIAkGWuMGL+JifFGmLyB6bkJGD++qy\nUfxDz5jGdWohg7Fwqi7GFEc/VNM08tygNufpBIYaa9UYCOy6CqkF7Lcwx4pnbh45\n058GD9dtlncqu/f9iD89vhRqEjY6JfyRzg3GuYhhiQKBgQDpvgZ0YiOQWgjXCFOs\nU0zh9SjDylcJmAFgYlTkmlJB2mlland8gb4Rs0v+U6eANYLqEL3JCBCzSflZiwr1\nJKWbJvDoaHql7YNFeq3GHgrqjITgKFdgsDUajcYWFaZHOif0zWHInQuFpTwyBzri\nnwH2jgcL4utWkA/IX+D1TtubPQKBgQDMsus0GnK7DGk9Z3skFV+PiEe4iHVW5coa\n/yYbc20OHt8ztpFLK9FZPTOg9qvQ/1xh0DGSIDi1wPsfT/QsuNFVVkxD/f2A+COH\n8OKLMdEiFr2xW+xVffdlgTkQt1o5EFb4O3DqRBHeJ69hLrLOTU5AEoakCYjPSSig\nNObtg3vI+wKBgQCDI6L5bwom9eyZwEk5mK6841AQsRguAMNc8S5R56cY3VJenOIW\nz6/0vFR5hzOlweAGNIhWHplIDcvBCjqGmR30s19b9SpCp8QLmi2exsI3H8l4/gkv\n7QyOLlahk1nsAlvig8xFwp5xR+hC5T2LYcy3KK4ZZCHHOiIwuGI9HxYkvQKBgCW4\nruk6GnxnrBkZsbKTkbmUhor18pGh5N2WuUIDwkwA2mbgNOQiXgDQ62u1KTJpbG/F\n+uyPrYOo3V4G0NtQ75qHPaSl8IpMr9eER2sZMg3THP/LDcEvZmC5MHfpIeI0JaK2\n6XbyNky3CXWiMmccDdh20YL3EtQICkmDli6ctTnzAoGAOt8w02kvZ6CKmhSCXVZY\nw7bZvBJOc3gLLK16ycfEryiMW7skwY+kHIYsHP6JxQmN3qlx2lY8nijpO+/P5NU+\n13mlPBMPVg+kBuVussuUFr1nZ2o8lupVrTB/6FSfUGZnhN3YR03n8UAsYeWeGyxl\n0+Zy2hofcUFrypVin/xx5pU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "aiwebsite@qubicleai-institute.iam.gserviceaccount.com",
+  "client_id": "117748762738060238466",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/aiwebsite%40qubicleai-institute.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
