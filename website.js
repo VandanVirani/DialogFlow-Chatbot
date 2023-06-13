@@ -42,8 +42,8 @@ const courses = [
     {
       'title':'Node.js Essentials: Building Web Applications with JavaScript',
       'description':"Master Node.js and build powerful web applications with JavaScript in this comprehensive course.",
-      'link':'https://dev-qubicleai.pantheonsite.io/courses/node-js-essentials-building-web-applications-with-javascript/',
-      'imageLink':"https://dev-qubicleai.pantheonsite.io/wp-content/uploads/2023/06/Best-Way-to-Learn-NodeJS-A-Complete-Roadmap-150x150.png"
+      'link':'https://qubicleai-institute.com/courses/node-js-essentials-building-web-applications-with-javascript/',
+      'imageLink':"https://qubicleai-institute.com/wp-content/uploads/2023/06/Best-Way-to-Learn-NodeJS-A-Complete-Roadmap.png"
     },
     {
       'title':'Comprehensive Data Science Masterclass',
