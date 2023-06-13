@@ -525,7 +525,7 @@ app.post('/dialogflow', express.json(), async(req, res)=>{
     
     }
 
-    else if(tag=="courseBeckendTag"){
+    else if(tag=="courseBackendTag"){
         paymentRes = formatResponseForDialogflow(
           [
               "Great! here some Backend course for you", 
