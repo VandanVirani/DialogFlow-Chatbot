@@ -36,8 +36,8 @@ const courses = [
     {
         'title':'Web Development Express: HTML, CSS, and JavaScript Crash Course',
         'description':"Skill Level: Beginner\nOnline course with concise video lectures and hands-on exercises",
-        'link':'https://dev-qubicleai.pantheonsite.io/courses/web-development-express-html-css-and-javascript-crash-course/',
-        'imageLink':"https://dev-qubicleai.pantheonsite.io/wp-content/uploads/2023/05/0_M4bxiCIjcTK-2Xr6-1024x538.jpg"
+        'link':'https://qubicleai-institute.com/courses/web-development-express-html-css-and-javascript-crash-course/',
+        'imageLink':"https://qubicleai-institute.com/wp-content/uploads/2023/05/0_M4bxiCIjcTK-2Xr6.jpg"
     },
     {
       'title':'Node.js Essentials: Building Web Applications with JavaScript',
