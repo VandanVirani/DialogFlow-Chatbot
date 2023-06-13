@@ -24,14 +24,14 @@ const courses = [
     {
         'title':'AI - The New Era',
         'description':'Join us on this enlightening journey and unlock the power of AI in shaping the future!',
-        'link':'https://dev-qubicleai.pantheonsite.io/courses/ai-the-new-era/',
-        'imageLink':"https://dev-qubicleai.pantheonsite.io/wp-content/uploads/2023/05/AI-and-Humans-1024x576.jpg"
+        'link':'https://qubicleai-institute.com/courses/ai-the-new-era/',
+        'imageLink':"https://qubicleai-institute.com/wp-content/uploads/2023/05/AI-and-Humans.jpg"
     },
     {
         'title':'Mastering React: Building Modern Web Applications',
         'description':"You'll learn the core concepts of React\nJoin us on this exciting journey and let's dive into React!",
-        'link':'https://dev-qubicleai.pantheonsite.io/courses/mastering-react-building-modern-web-applications/',
-        'imageLink':"https://dev-qubicleai.pantheonsite.io/wp-content/uploads/2023/05/0S2oGmon8xrcPwq6heTRyh3DayYVh6e2ftTjGuDA-1024x683.jpg"
+        'link':'https://qubicleai-institute.com/courses/mastering-react-building-modern-web-applications/',
+        'imageLink':"https://qubicleai-institute.com/wp-content/uploads/2023/05/0S2oGmon8xrcPwq6heTRyh3DayYVh6e2ftTjGuDA.jpg"
     },
     {
         'title':'Web Development Express: HTML, CSS, and JavaScript Crash Course',
@@ -48,20 +48,20 @@ const courses = [
     {
       'title':'Comprehensive Data Science Masterclass',
       'description':"Embark on a comprehensive data science journey, from beginner to advanced, and unleash the power of data with valuable insights",
-      'link':'https://dev-qubicleai.pantheonsite.io/courses/comprehensive-data-science-masterclass/',
-      'imageLink':"https://dev-qubicleai.pantheonsite.io/wp-content/uploads/2023/06/What-is-data-science-2.jpg"
+      'link':'https://qubicleai-institute.com/courses/comprehensive-data-science-masterclass/',
+      'imageLink':"https://qubicleai-institute.com/wp-content/uploads/2023/06/What-is-data-science-2.jpg"
     },
     {
-      'title':'Comprehensive Data Science Masterclass',
+      'title':'Mastering ChatGPT: Effective Strategies for Conversational AI',
       'description':"Unlock the full potential of ChatGPT and Master ChatGPT and unleash the power of conversational AI in this comprehensive course.",
-      'link':'https://dev-qubicleai.pantheonsite.io/courses/mastering-chatgpt-effective-strategies-for-conversational-ai/',
-      'imageLink':"https://dev-qubicleai.pantheonsite.io/wp-content/uploads/2023/06/1678617545351.png"
+      'link':'https://qubicleai-institute.com/courses/mastering-chatgpt-effective-strategies-for-conversational-ai/',
+      'imageLink':"https://qubicleai-institute.com/wp-content/uploads/2023/06/1678617545351.png"
     },
     {
       'title':'Python Programming for Beginners',
       'description':"Python programming to beginners, providing hands-on exercises and practical examples to enhance ability to write Python programs.",
-      'link':'https://dev-qubicleai.pantheonsite.io/courses/python-programming-for-beginners/',
-      'imageLink':"https://dev-qubicleai.pantheonsite.io/wp-content/uploads/2023/06/1_RJMxLdTHqVBSijKmOO5MAg.jpg"
+      'link':'https://qubicleai-institute.com/courses/python-programming-for-beginners/',
+      'imageLink':"https://qubicleai-institute.com/wp-content/uploads/2023/06/1_RJMxLdTHqVBSijKmOO5MAg.jpg"
     }
 ]
 
