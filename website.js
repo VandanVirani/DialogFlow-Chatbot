@@ -49,7 +49,7 @@ const courses = [
       'title':'Comprehensive Data Science Masterclass',
       'description':"Embark on a comprehensive data science journey, from beginner to advanced, and unleash the power of data with valuable insights",
       'link':'https://qubicleai-institute.com/courses/comprehensive-data-science-masterclass/',
-      'imageLink':"https://qubicleai-institute.com/wp-content/uploads/2023/06/What-is-data-science-2.jpg"
+      'imageLink':"https://qubicleai-institute.com/wp-content/uploads/2023/06/data-science-course.webp"
     },
     {
       'title':'Mastering ChatGPT: Effective Strategies for Conversational AI',
