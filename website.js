@@ -55,13 +55,13 @@ const courses = [
       'title':'Mastering ChatGPT: Effective Strategies for Conversational AI',
       'description':"Unlock the full potential of ChatGPT and Master ChatGPT and unleash the power of conversational AI in this comprehensive course.",
       'link':'https://qubicleai-institute.com/courses/mastering-chatgpt-effective-strategies-for-conversational-ai/',
-      'imageLink':"https://qubicleai-institute.com/wp-content/uploads/2023/06/1678617545351.png"
+      'imageLink':"https://qubicleai-institute.com/wp-content/uploads/2023/06/Gpt-Course.webp"
     },
     {
       'title':'Python Programming for Beginners',
       'description':"Python programming to beginners, providing hands-on exercises and practical examples to enhance ability to write Python programs.",
       'link':'https://qubicleai-institute.com/courses/python-programming-for-beginners/',
-      'imageLink':"https://qubicleai-institute.com/wp-content/uploads/2023/06/1_RJMxLdTHqVBSijKmOO5MAg.jpg"
+      'imageLink':"https://qubicleai-institute.com/wp-content/uploads/2023/06/Python-course.webp"
     }
 ]
 
