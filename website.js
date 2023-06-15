@@ -25,7 +25,7 @@ const courses = [
         'title':'AI - The New Era',
         'description':'Join us on this enlightening journey and unlock the power of AI in shaping the future!',
         'link':'https://qubicleai-institute.com/courses/ai-the-new-era/',
-        'imageLink':"https://qubicleai-institute.com/wp-content/uploads/2023/05/AI-and-Humans.jpg"
+        'imageLink':"https://qubicleai-institute.com/wp-content/uploads/2023/05/ai-new-era.webp"
     },
     {
         'title':'Mastering React: Building Modern Web Applications',
