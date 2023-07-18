@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const PORT = process.env.port || 3000
+const PORT = 8888
 
 
 var nodemailer = require('nodemailer');
