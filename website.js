@@ -1,8 +1,6 @@
 const express = require('express');
 const app = express();
-const axion = require('axios');
-const { await, Consolo, cons } = require('pos/lexicon');
-var autocorrect = require('autocorrect')()
+const PORT = process.env.port || 3000
 
 
 var nodemailer = require('nodemailer');
@@ -698,7 +696,7 @@ app.post('/dialogflow', express.json(), async(req, res)=>{
 
 })
 
-app.listen(8888, ()=>console.log("Server is live at port 8888"));
+app.listen(PORT, ()=>console.log("Server is live at port 8888"));
 
 
 
