@@ -463,11 +463,10 @@ app.post('/dialogflow', express.json(), async(req, res)=>{
     if(tag=="helloCourse"){
         paymentRes = formatResponseForDialogflow(
         [
-            '', //\n
+            '',
         ],
         '',
         '',
-        'projects/qubicleai-institute/locations/global/agents/7e176651-becd-49c7-9bbf-3e3820857630/flows/00000000-0000-0000-0000-000000000000/pages/041f9c78-4a0f-4b6f-a0f0-62d1782134fb'
         )
 
 
@@ -475,29 +474,29 @@ app.post('/dialogflow', express.json(), async(req, res)=>{
         paymentRes.fulfillment_response.messages.push(
                           { 
                               payload: {
-                "platform": "kommunicate",
-                "metadata": {
-                  "payload": [
-                    {
-                      "title": "Web development",
-                      "message": "web development"
-                    },
-                    {
-                      "message": "ai and ml",
-                      "title": "AI and ML"
-                    },
-                    {
-                      "message": "data science",
-                      "title": "Data Science"
-                    },
-                    {
-                      "title": "Backend course",
-                      "message": "backend course"
-                    }
-                  ],
-                  "contentType": "300",
-                  "templateId": "6"
-                }
+                      "platform": "kommunicate",
+                      "metadata": {
+                        "payload": [
+                          {
+                            "title": "Web development",
+                            "message": "web development"
+                          },
+                          {
+                            "message": "ai and ml",
+                            "title": "AI and ML"
+                          },
+                          {
+                            "message": "data science",
+                            "title": "Data Science"
+                          },
+                          {
+                            "title": "Backend course",
+                            "message": "backend course"
+                          }
+                        ],
+                        "contentType": "300",
+                        "templateId": "6"
+                      }
               }
   
                 
