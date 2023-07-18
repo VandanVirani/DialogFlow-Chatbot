@@ -460,7 +460,7 @@ app.post('/dialogflow', express.json(), async(req, res)=>{
     console.log(req.body.fulfillmentInfo.tag)
     
     let tag = req.body.fulfillmentInfo.tag;
-    if(tag=='helloCourse"){
+    if(tag=="helloCourse"){
         paymentRes = formatResponseForDialogflow(
         [
             '', //\n
