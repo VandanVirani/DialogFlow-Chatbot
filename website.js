@@ -22,44 +22,44 @@ const courses = [
     {
         'title':'AI - The New Era',
         'description':'Join us on this enlightening journey and unlock the power of AI in shaping the future!',
-        'link':'https://qubicleai-institute.com/courses/ai-the-new-era/',
-        'imageLink':"https://qubicleai-institute.com/wp-content/uploads/2023/05/ai-new-era.webp"
+        'link':'https://algobrainai.com/courses/ai-the-new-era/',
+        'imageLink':"https://algobrainai.com/wp-content/uploads/2023/05/ai-new-era.webp"
     },
     {
         'title':'Mastering React: Building Modern Web Applications',
         'description':"You'll learn the core concepts of React\nJoin us on this exciting journey and let's dive into React!",
-        'link':'https://qubicleai-institute.com/courses/mastering-react-building-modern-web-applications/',
-        'imageLink':"https://qubicleai-institute.com/wp-content/uploads/2023/05/0S2oGmon8xrcPwq6heTRyh3DayYVh6e2ftTjGuDA.jpg"
+        'link':'https://algobrainai.com/courses/mastering-react-building-modern-web-applications/',
+        'imageLink':"https://algobrainai.com/wp-content/uploads/2023/05/0S2oGmon8xrcPwq6heTRyh3DayYVh6e2ftTjGuDA.jpg"
     },
     {
         'title':'Web Development Express: HTML, CSS, and JavaScript Crash Course',
         'description':"Skill Level: Beginner\nOnline course with concise video lectures and hands-on exercises",
-        'link':'https://qubicleai-institute.com/courses/web-development-express-html-css-and-javascript-crash-course/',
-        'imageLink':"https://qubicleai-institute.com/wp-content/uploads/2023/05/0_M4bxiCIjcTK-2Xr6.jpg"
+        'link':'https://algobrainai.com/courses/web-development-express-html-css-and-javascript-crash-course/',
+        'imageLink':"https://algobrainai.com/wp-content/uploads/2023/05/0_M4bxiCIjcTK-2Xr6.jpg"
     },
     {
       'title':'Node.js Essentials: Building Web Applications with JavaScript',
       'description':"Master Node.js and build powerful web applications with JavaScript in this comprehensive course.",
-      'link':'https://qubicleai-institute.com/courses/node-js-essentials-building-web-applications-with-javascript/',
-      'imageLink':"https://qubicleai-institute.com/wp-content/uploads/2023/06/Best-Way-to-Learn-NodeJS-A-Complete-Roadmap.png"
+      'link':'https://algobrainai.com/courses/node-js-essentials-building-web-applications-with-javascript/',
+      'imageLink':"https://algobrainai.com/wp-content/uploads/2023/06/Best-Way-to-Learn-NodeJS-A-Complete-Roadmap.png"
     },
     {
       'title':'Comprehensive Data Science Masterclass',
       'description':"Embark on a comprehensive data science journey, from beginner to advanced, and unleash the power of data with valuable insights",
-      'link':'https://qubicleai-institute.com/courses/comprehensive-data-science-masterclass/',
-      'imageLink':"https://qubicleai-institute.com/wp-content/uploads/2023/06/data-science-course.webp"
+      'link':'https://algobrainai.com/courses/comprehensive-data-science-masterclass/',
+      'imageLink':"https://algobrainai.com/wp-content/uploads/2023/06/data-science-course.webp"
     },
     {
       'title':'Mastering ChatGPT: Effective Strategies for Conversational AI',
       'description':"Unlock the full potential of ChatGPT and Master ChatGPT and unleash the power of conversational AI in this comprehensive course.",
-      'link':'https://qubicleai-institute.com/courses/mastering-chatgpt-effective-strategies-for-conversational-ai/',
-      'imageLink':"https://qubicleai-institute.com/wp-content/uploads/2023/06/Gpt-Course.webp"
+      'link':'https://algobrainai.com/courses/mastering-chatgpt-effective-strategies-for-conversational-ai/',
+      'imageLink':"https://algobrainai.com/wp-content/uploads/2023/06/Gpt-Course.webp"
     },
     {
       'title':'Python Programming for Beginners',
       'description':"Python programming to beginners, providing hands-on exercises and practical examples to enhance ability to write Python programs.",
-      'link':'https://qubicleai-institute.com/courses/python-programming-for-beginners/',
-      'imageLink':"https://qubicleai-institute.com/wp-content/uploads/2023/06/Python-course.webp"
+      'link':'https://algobrainai.com/courses/python-programming-for-beginners/',
+      'imageLink':"https://algobrainai.com/wp-content/uploads/2023/06/Python-course.webp"
     }
 ]
 
