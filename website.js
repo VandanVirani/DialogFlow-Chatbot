@@ -23,7 +23,7 @@ const courses = [
         'title':'AI - The New Era',
         'description':'Join us on this enlightening journey and unlock the power of AI in shaping the future!',
         'link':'https://algobrainai.in/courses/ai-the-new-era/',
-        'imageLink':"https://algobrainai.in/wp-content/uploads/2023/05/ai-new-era.webp"
+        'imageLink':"https://drive.google.com/drive/u/4/folders/1xNRkxZhDNPgJ7hM18GZKVRku1UaSRHjG"
     },
     {
         'title':'Mastering React: Building Modern Web Applications',
