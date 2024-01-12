@@ -448,9 +448,11 @@ const formatResponseForDialogflow = (texts, sessionInfo, targetFlow, targetPage)
 
 
 app.get('/', (req, res)=>{
-    res.send("We are livee")
+    res.send("We are live")
 });
-
+app.get('/a', (req, res)=>{
+    res.send("We are liveee")
+});
 
 app.post('/dialogflow', express.json(), async(req, res)=>{
 
